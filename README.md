@@ -5,16 +5,16 @@
 
 ---
 
-### 🔹 About Me
+### About Me
 
 With over 10 years of experience in building interactive dashboards and data-driven interfaces, I help companies — from startups to enterprises — make better decisions through intuitive and modern visuals.  
 I specialize in **Highcharts**, **Typescript**, **JavaScript**, **CSS**, **HTML**, and **jQuery**, and I’m an active contributor on Stack Overflow with over **5,000 reputation**, **190+ answers**, and **1.9M+ total reach**.
 
-📌 [My StackOverflow profile](https://stackoverflow.com/users/5418042/grzegorz-blachli%C5%84ski)
+[My StackOverflow profile](https://stackoverflow.com/users/5418042/grzegorz-blachli%C5%84ski)
 
 ---
 
-### 🚀 What I Do at Black Label
+### What I Do at Black Label
 
 At **Black Label**, I lead operational strategy and technical delivery. I focus on:
 - Managing product development from ideation to deployment
@@ -23,11 +23,11 @@ At **Black Label**, I lead operational strategy and technical delivery. I focus 
 - Shaping GTM strategies with OSS foundations
 - Running content and community efforts like **TechFlix** and **The Black Labelist**
 
-🔗 [blacklabel.net](https://blacklabel.net)
+[blacklabel.net](https://blacklabel.net)
 
 ---
 
-### 🎬 Featured: *TechFlix Presents The Black Labelist*
+### Featured: *TechFlix Presents The Black Labelist*
 
 A behind-the-scenes blog series focused on my story, touching a bit on real-world change management and engineering culture at scale.
 
@@ -38,7 +38,7 @@ A behind-the-scenes blog series focused on my story, touching a bit on real-worl
 
 ---
 
-### 🛠️ Core Skills
+### Core Skills
 
 - **Technical**: Highcharts, JavaScript, TypeScript, HTML, CSS, React, GraphQL, jQuery
 - **Operational**: Change Management, DevOps Alignment, GTM Strategy, Scrum, Agile
@@ -46,12 +46,12 @@ A behind-the-scenes blog series focused on my story, touching a bit on real-worl
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
 I'm open to collaboration, speaking opportunities, or just talking about data visualization, product operations, or developer culture.
 
-- 💼 [LinkedIn – Gregory Blachliński](https://www.linkedin.com/in/gregory-blachlinski/)
-- 📧 grzegorz.blachlinski@blacklabel.net
+- [LinkedIn – Gregory Blachliński](https://www.linkedin.com/in/gregory-blachlinski/)
+- grzegorz.blachlinski@blacklabel.net
 
 ---
 
