@@ -73,10 +73,23 @@ At **Black Label**, I lead operational strategy and technical delivery. I focus 
 
 ### Let’s Connect
 
-I'm open to collaboration, speaking opportunities, or just talking about data visualization, product operations, or developer culture.
+<table>
+<tr>
+  <td width="50%">
+    <img src="./1697101231804.jpeg" alt="my conference speaker photo" width="100%">
+  </td>
+  <td width="50%">
+    <p>
+        I'm open to collaboration, speaking opportunities, or just talking about data visualization, product operations, or developer culture.
+    </p>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/gregory-blachlinski/">LinkedIn – Gregory Blachliński</a></li>
+      <li><a href="mailto:grzegorz.blachlinski@blacklabel.net">grzegorz.blachlinski@blacklabel.net</a></li>
+    </ul>
+  </td>
+</tr>
+</table>
 
-- [LinkedIn – Gregory Blachliński](https://www.linkedin.com/in/gregory-blachlinski/)
-- grzegorz.blachlinski@blacklabel.net
 
 ---
 
