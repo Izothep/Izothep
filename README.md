@@ -8,7 +8,7 @@
 ### About Me
 
 With over 10 years of experience in building interactive dashboards and data-driven interfaces, I help companies — from startups to enterprises — make better decisions through intuitive and modern visuals.  
-I specialize in **Highcharts**, **Typescript**, **JavaScript**, **CSS**, **HTML**, and **jQuery**, and I’m an active contributor on Stack Overflow with over **5,000 reputation**, **190+ answers**, and **1.9M+ total reach**.
+I specialize in **Highcharts**, **Typescript**, **JavaScript**, **CSS**, **HTML**, and **jQuery**, and I’m an active contributor on Stack Overflow with over **5,000 reputation**, **590+ answers**, and **1.9M+ total reach**.
 
 [My StackOverflow profile](https://stackoverflow.com/users/5418042/grzegorz-blachli%C5%84ski)
 
