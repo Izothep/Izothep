@@ -16,7 +16,7 @@
       I specialize in <strong>Highcharts</strong>, <strong>Typescript</strong>, <strong>JavaScript</strong>, <strong>CSS</strong>, <strong>HTML</strong>, and <strong>jQuery</strong>, and I’m an active contributor on Stack Overflow with over <strong>5,000 reputation</strong>, <strong>590+ answers</strong>, and <strong>1.9M+ total reach</strong>.
     </p>
     <p>
-      🔗 <a href="https://stackoverflow.com/users/5418042/grzegorz-blachli%C5%84ski">My StackOverflow profile</a>
+      <a href="https://stackoverflow.com/users/5418042/grzegorz-blachli%C5%84ski">My StackOverflow profile</a>
     </p>
   </td>
   <td width="50%">
